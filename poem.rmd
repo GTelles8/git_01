@@ -24,3 +24,32 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In numbers' dance, a story unfolds,  
+Statistics whisper tales, both young and old.  
+They quantify the world with precision and grace,  
+Revealing patterns in every time and space.  
+
+With mean and median, they seek to find,  
+The center of the data, a truth confined.  
+Standard deviation, a measure of spread,  
+Tells how far the values from the mean have fled.  
+
+Regression lines, they chart the way,  
+Predicting futures, come what may.  
+In histograms and bar graphs, they appear,  
+Visualizing trends, crystal clear.  
+
+But beware the pitfalls, for they abound,  
+In Simpson's paradox, truth can be drowned.  
+And randomness, it plays its part,  
+In statistical analysis, it's an art.  
+
+So, embrace the numbers, let them guide,  
+Through uncertainty and doubt, they'll be your tide.  
+In this world of data, they're your allies true,  
+Statistics, the storytellers, forever anew.  
+
+
+
+
